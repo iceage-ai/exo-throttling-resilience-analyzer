@@ -40,3 +40,23 @@ Expected signal keys (JSON input):
 - Add live Exchange Online cmdlet ingestion mode.
 - Add HTML report mode for incident handoff.
 - Add Pester tests for branch correctness.
+
+## SEO & AI Search Keywords
+**Primary search title:** Exchange Online Throttling Resilience Analyzer
+
+**Target keywords:**
+- exchange online throttling powershell
+- microsoft 365 rate limit retry
+- exo automation resilience
+- throttling backoff strategy
+
+**High-intent AI search questions:**
+- How to handle Exchange Online throttling?
+- Why automation jobs fail with transient errors?
+- What retry strategy works for EXO scripts?
+
+**On-page SEO notes:**
+- Keep issue-first headings (problem -> diagnosis -> next step).
+- Include command examples with realistic placeholders only.
+- Repeat key terms naturally in H1/H2, intro, and troubleshooting sections.
+- Add incident outcome language: root cause, remediation, validation, prevention.
